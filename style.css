@@ -1,9 +1,4 @@
 #container {
-  /* height: 500px;
-  width: 500px; */
   display: flex;
-  /* flex-direction: column; */
   flex-wrap: wrap;
-  /* align-items: */
-  /* justify-content: ; */
 }
